@@ -1,0 +1,20 @@
+E:\Programming\DZ\C# Homeworks\17.12.16\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.16\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.pdb
+C:\Users\Sasha M\Desktop\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sasha M\Desktop\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.dll
+C:\Users\Sasha M\Desktop\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.dll
+C:\Users\Sasha M\Desktop\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.pdb
+C:\Users\Sasha M\Desktop\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.pdb
+E:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.csprojResolveAssemblyReference.cache
+E:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.dll
+E:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.pdb
+E:\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.dll
+E:\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.pdb
+G:\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.dll
+G:\CoffeApp\CoffeeApp.Domain\bin\Debug\CoffeeApp.Domain.pdb
+G:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.csprojResolveAssemblyReference.cache
+G:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.dll
+G:\CoffeApp\CoffeeApp.Domain\obj\Debug\CoffeeApp.Domain.pdb

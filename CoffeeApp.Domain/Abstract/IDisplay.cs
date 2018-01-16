@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CoffeeApp.Domain.Abstract
+{
+    public interface IDisplay
+    {
+        void ShowInfo(string message);
+    }
+}
