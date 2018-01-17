@@ -1,6 +1,8 @@
 ﻿using CoffeeApp.Domain.Abstract;
+using CoffeeApp.Domain.Core.ClientSide;
 using System;
 using System.Collections.Generic;
+using System.Text;
 using System.Threading;
 
 
@@ -25,7 +27,6 @@ namespace CoffeeApp.Domain.Entities.Common
 
         public event EventHandler<IngridientsOverEventArgs> IngrOverEvent;
 
-        public e
 
         public Automat(OrderController orderController,
             IDrinkRepository drinksRepo,IDisplay display,
@@ -60,6 +61,18 @@ namespace CoffeeApp.Domain.Entities.Common
                 return;
             }
             IngridientsOverEventArgs args = new IngridientsOverEventArgs(oversIngridients);
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine("Methods of IngrOverEvent");
+
+            foreach (Delegate item in IngrOverEvent.GetInvocationList())
+            {
+                sb.AppendLine("\n-Method:" + item.Method + "  Target type:" + item.Target);
+            }
+
+            Logger.RecordToProgramLog(sb.ToString());
+
             IngrOverEvent.Invoke(this, args);
         }
 

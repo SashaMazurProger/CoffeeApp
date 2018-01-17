@@ -34,6 +34,18 @@ namespace CoffeeApp.Domain.Core.ClientSide
                 }
             }
         }
+        public static void RecordToProgramLog(string message)
+        {
+            lock (objLock)
+            {
+                using (StreamWriter writer = new StreamWriter("AppLog.txt", true))
+                {
+                    writer.WriteLine(String.Format("{0} : {1}",
+                        DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss"), message));
+                    writer.Flush();
+                }
+            }
+        }
     }
 }
 
