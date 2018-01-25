@@ -46,13 +46,11 @@
     <Compile Include="Abstract\IDisplay.cs" />
     <Compile Include="Abstract\IDrinkRepository.cs" />
     <Compile Include="Abstract\IIngsRepository.cs" />
-    <Compile Include="Abstract\InterfaceIngridientService.cs" />
     <Compile Include="Abstract\OrderController.cs" />
     <Compile Include="Core\ClientSide\CoffeDrinkCook.cs" />
     <Compile Include="Core\ClientSide\ConsoleOrderController.cs" />
     <Compile Include="Core\ClientSide\Logger.cs" />
     <Compile Include="Core\ClientSide\MainStartConfig.cs" />
-    <Compile Include="Core\Service\IngridientService.cs" />
     <Compile Include="Entities\Common\Automat.cs" />
     <Compile Include="Core\ClientSide\ConsoleDisplay.cs" />
     <Compile Include="Entities\Common\AutomatEventService.cs" />
